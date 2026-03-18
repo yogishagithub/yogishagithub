@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @yogishagithub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .Programming..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Yogisha Lakshmini 👋
 
-<!---
-yogishagithub/yogishagithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me 
+I am an undergraduate student in Computer Science with a strong focus on Cyber Security and Networking.
+•	🎓 Reading BSC (Hons) Computer Science Degree - University of Saegis
+
+Certifications
+•	  Aviatrix Multicloud Network Certified
+•	Frontend Web Development University of Moratuwa
+•	AWS Skill Builder
+•	Web Design for Beginners University of Moratuwa
+
