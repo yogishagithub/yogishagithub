@@ -5,7 +5,8 @@ I am an undergraduate student in Computer Science with a strong focus on Cyber S
 •	🎓 Reading BSC (Hons) Computer Science Degree - University of Saegis
 
 Certifications
-•	  Aviatrix Multicloud Network Certified
+
+•	Aviatrix Multicloud Network Certified
 •	Frontend Web Development University of Moratuwa
 •	AWS Skill Builder
 •	Web Design for Beginners University of Moratuwa
