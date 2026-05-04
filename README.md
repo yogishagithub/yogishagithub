@@ -4,6 +4,11 @@
   <h3 align="left">BSc (Hons) Computer Science · Undergraduate Student · Saegis Campus · Nugegoda,Sri    Lanka. </h3>
   <p align="left" font size=12> Undergraduate Computer Science student with a strong focus on Cyber      Security & Networking. I enjoy building frontend projects and continuously expanding my skills         across cloud, networking, and web development.</p></div>
 </section>
+  <div class="overview2">
+  <div class="card"><br>
+  <font size=11 align ="left">Focus area <br><b>Cyber Security and Networking</b>
+  <div class="card"><br> 
+  <font size=11 align ="left">Focus area <br><b>Cyber Security and Networking</b>
 </div>
   
 
