@@ -6,9 +6,13 @@
 </section>
   <div class="overview2">
   <div class="card"><br>
-  <font size=11 align ="left">Focus area <br><b>Cyber Security and Networking</b>
+  <font size=11 align ="left">FOCUS AREA<br><b>Cyber Security and Networking</b>
   <div class="card"><br> 
-  <font size=11 align ="left">Focus area <br><b>Cyber Security and Networking</b>
+  <font size=11 align ="left">PUBLIC REPOS <br><b>8 repositories</b>
 </div>
-  
+<div class="overview3"> 
+<div class ="card"><br>
+<font size=11 align ="left">CERTIFICATIONS<br>Aviatrix Multicloud Network Certified<br>Frontend Web Development — University of Moratuwa<br>AWS Skill Builder — Amazon Web Services<br>Web Design for Beginners — University of Moratuwa
+</font>
+</div>
 
