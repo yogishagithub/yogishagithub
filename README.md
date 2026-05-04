@@ -1,16 +1,32 @@
 <h1 align="center">Hi, I'm Yogisha Lakshmini 👋</h1>
 
 <p align="center">
-  🎓 BSc (Hons) Computer Science | University of Saegis <br>
-  🔐 Passionate about Cyber Security & Networking <br>
-  📍 Nugegoda, Sri Lanka
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=BSc+Computer+Science+%7C+University+of+Saegis;Cyber+Security+%26+Networking+Enthusiast;Frontend+Developer+%7C+Cloud+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yogisha-lakshmini-b378b7314">
+    <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_yogisha_">
+    <img src="https://img.shields.io/badge/Instagram-1D9E75?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/yogisha-laks">
+    <img src="https://img.shields.io/badge/Credly-444441?style=flat&logo=credly&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm an undergraduate student in Computer Science with a strong focus on **Cyber Security and Networking**. I love building projects and continuously improving my skills in both frontend development and network security.
+I am an undergraduate student in **Computer Science** with a strong focus on **Cyber Security & Networking**.
+Currently reading for my BSc (Hons) Computer Science Degree at the **University of Saegis**, I enjoy building
+frontend projects and continuously expanding my skills across cloud, networking, and web development.
+
+- 📍 Nugegoda, Sri Lanka
+- 🔐 Passionate about Cyber Security & Networking
+- 🌱 Always learning — currently exploring cloud infrastructure and network automation
 
 ---
 
@@ -18,34 +34,49 @@ I'm an undergraduate student in Computer Science with a strong focus on **Cyber 
 
 | Certificate | Issuer |
 |---|---|
-| Aviatrix Multicloud Network Certified | Aviatrix |
-| Frontend Web Development | University of Moratuwa |
-| AWS Skill Builder | Amazon Web Services |
-| Web Design for Beginners | University of Moratuwa |
+| ✅ Aviatrix Multicloud Network Certified | Aviatrix |
+| ✅ Frontend Web Development | University of Moratuwa |
+| ✅ AWS Skill Builder | Amazon Web Services |
+| ✅ Web Design for Beginners | University of Moratuwa |
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1D9E75?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1D9E75?style=flat&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0C447C?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0C447C?style=flat&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-444441?style=flat&logo=figma&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-444441?style=flat&logo=cisco&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-- 🌐 [**Portfoliyo**](https://github.com/yogishagithub/Portfoliyo) - My first portfolio project
-- 🪑 [**Furniture Web Site**](https://github.com/yogishagithub/Furniture-Web-Site) - Group project
-- 🐳 [**Docker Automation**](https://github.com/yogishagithub/Docker-Automation)
-- 🎨 [**Figma Design**](https://github.com/yogishagithub/Figma-design)
+| Project | Description | Tech |
+|---|---|---|
+| [🌐 Portfoliyo](https://github.com/yogishagithub/Portfoliyo) | My first portfolio project | HTML |
+| [🪑 Furniture Web Site](https://github.com/yogishagithub/Furniture-Web-Site) | Group project | CSS |
+| [🐳 Docker Automation](https://github.com/yogishagithub/Docker-Automation) | Automation project | Docker |
+| [🎨 Figma Design](https://github.com/yogishagithub/Figma-design) | UI/UX design work | Figma |
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogisha-lakshmini-b378b7314)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_yogisha_)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/yogisha-laks)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogishagithub&show_icons=true&theme=default&title_color=1D9E75&icon_color=0C447C&text_color=444441&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogishagithub&layout=compact&title_color=1D9E75&text_color=444441&hide_border=true" height="150"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogishagithub&color=1D9E75&style=flat&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <em>Thanks for visiting! Feel free to connect 🤝</em>
+</p>
