@@ -6,48 +6,21 @@
 
 <br>
 
-<p align="center">
-  <a href="mailto:yogishalakshmini6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D9E75?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yogisha-lakshmini-b378b7314">
-    <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_yogisha_">
-    <img src="https://img.shields.io/badge/Instagram-444441?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/yogisha-laks">
-    <img src="https://img.shields.io/badge/Credly-444441?style=flat&logo=credly&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
-## 🙋‍♀️ About Me
+I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus with a keen 
+interest in Cybersecurity and Networking. I have basic knowledge in both areas and have 
+completed a number of small practical projects that have helped me build hands-on experience 
+alongside my academic studies. I am currently seeking an internship opportunity in 
+Cybersecurity or Networking where I can apply my foundational skills, gain real - world industry 
+exposure, and continue developing as an IT professional.  
 
-Undergraduate Computer Science student with a strong focus on **Cyber Security & Networking**. I enjoy building frontend projects and continuously expanding my skills across cloud, networking, and web development.
 
-- 📍 Nugegoda, Sri Lanka
-- 🔐 Passionate about Cyber Security & Networking
-- 🌱 Always learning — currently exploring cloud infrastructure and network automation
-- 📞 +94 76 3356002
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| ✅ Aviatrix Multicloud Network Certified | Aviatrix |
-| ✅ Introduction to Cybersecurity | Cisco Networking Academy |
-| ✅ AWS Skill Builder — AWS Well-Architected | Amazon Web Services |
-| ✅ Introduction to Kali Linux Basics | Simplilearn |
-| ✅ Frontend Web Development | University of Moratuwa |
-| ✅ Web Design for Beginners | University of Moratuwa |
-| 🔄 CCNA — Introduction to Networks | Cisco *(pending)* |
-| 🔄 Ethical Hacker | Cisco Networking Academy *(pending)* |
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -67,3 +40,18 @@ Undergraduate Computer Science student with a strong focus on **Cyber Security &
 ![Docker](https://img.shields.io/badge/Docker-0C2744?style=flat&logo=docker&logoColor=85B7EB)
 ![GitHub](https://img.shields.io/badge/GitHub-0C2744?style=flat&logo=github&logoColor=85B7EB)
 ![Linux](https://img.shields.io/badg
+----
+<p align="center">
+  <a href="mailto:yogishalakshmini6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1D9E75?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yogisha-lakshmini-b378b7314">
+    <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_yogisha_">
+    <img src="https://img.shields.io/badge/Instagram-444441?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/yogisha-laks">
+    <img src="https://img.shields.io/badge/Credly-444441?style=flat&logo=credly&logoColor=white" />
+  </a>
+</p>
