@@ -14,8 +14,7 @@ I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus wit
 interest in Cybersecurity and Networking. I have basic knowledge in both areas and have 
 completed a number of small practical projects that have helped me build hands-on experience 
 alongside my academic studies. I am currently seeking an internship opportunity in 
-Cybersecurity or Networking where I can apply my foundational skills, gain real - world industry 
-exposure, and continue developing as an IT professional.  
+Cybersecurity or Networking. 
 
 
 
@@ -24,7 +23,7 @@ exposure, and continue developing as an IT professional.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**PROGRAMMING LANGUAGE**
 
 ![Python](https://img.shields.io/badge/Python-0F3D2E?style=flat&logo=python&logoColor=5DCAA5)
 ![HTML5](https://img.shields.io/badge/HTML5-0F3D2E?style=flat&logo=html5&logoColor=5DCAA5)
@@ -33,15 +32,21 @@ exposure, and continue developing as an IT professional.
 ![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=flat&logo=php&logoColor=5DCAA5)
 ![C](https://img.shields.io/badge/C-0F3D2E?style=flat&logo=c&logoColor=5DCAA5)
 
-**Databases & Tools**
+**DATABASES**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0C2744?style=flat&logo=mysql&logoColor=85B7EB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0C2744?style=flat&logo=mongodb&logoColor=85B7EB)
+
+**TOOLS**
 ![Docker](https://img.shields.io/badge/Docker-0C2744?style=flat&logo=docker&logoColor=85B7EB)
 ![GitHub](https://img.shields.io/badge/GitHub-0C2744?style=flat&logo=github&logoColor=85B7EB)
 ![Linux](https://img.shields.io/badg
+Git
+Figma
+Canva
+Android Studio
 ----
-<p align="center">
+<p align="center" CONTACT ME>
   <a href="mailto:yogishalakshmini6@gmail.com">
     <img src="https://img.shields.io/badge/Email-1D9E75?style=flat&logo=gmail&logoColor=white" />
   </a>
