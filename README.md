@@ -23,34 +23,28 @@ Cybersecurity or Networking.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+**PROGRAMMING LANGUAGE**
 
-### 💻 Programming Languages
-- Python  
-- PHP  
-- C  
-- JavaScript  
-- HTML  
-- CSS  
+![Python](https://img.shields.io/badge/Python-0F3D2E?style=flat&logo=python&logoColor=5DCAA5)
+![HTML5](https://img.shields.io/badge/HTML5-0F3D2E?style=flat&logo=html5&logoColor=5DCAA5)
+![CSS3](https://img.shields.io/badge/CSS3-0F3D2E?style=flat&logo=css3&logoColor=5DCAA5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F3D2E?style=flat&logo=javascript&logoColor=5DCAA5)
+![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=flat&logo=php&logoColor=5DCAA5)
+![C](https://img.shields.io/badge/C-0F3D2E?style=flat&logo=c&logoColor=5DCAA5)
+<br>
+**DATABASES**
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
-
-### ⚙️ Tools & Platforms
-- Git  
-- GitHub  
-- Figma  
-- Canva  
-- VS Code  
-- Android Studio  
-- PyCharm  
-- Cisco Packet Tracer  
-- Linux  
-
-### 🌐 Languages
-- English  
-- Sinhala  
+![MySQL](https://img.shields.io/badge/MySQL-0C2744?style=flat&logo=mysql&logoColor=85B7EB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0C2744?style=flat&logo=mongodb&logoColor=85B7EB)
+<br>
+**TOOLS**
+![Docker](https://img.shields.io/badge/Docker-0C2744?style=flat&logo=docker&logoColor=85B7EB)
+![GitHub](https://img.shields.io/badge/GitHub-0C2744?style=flat&logo=github&logoColor=85B7EB)
+![Linux](https://img.shields.io/badg
+Git
+Figma
+Canva
+Android Studio
 ----
 <p align="center" CONTACT ME>
   <a href="mailto:yogishalakshmini6@gmail.com">
