@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋, I'm Yogisha Lakshmini</h1>
 <h4 align="center">BSc (Hons) Computer Science Undergraduate Student . Saegis Campus</h4>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Enthusiast;Networking+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#F5F7F5&lines=Cybersecurity+Enthusiast;Networking+Learner" />
 </p>
+
 ---
 
 I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus with a keen 
