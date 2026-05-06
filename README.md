@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yogisha Lakshmini</h1>
-<h3 align="center">BSc (Hons) Computer Science Undergraduate | Cybersecurity & Networking Enthusiast</h3>
-
+<h4 align="center">BSc (Hons) Computer Science Undergraduate Student</h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Enthusiast;Networking+Learner" />
 </p>
-
 ---
-
 I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus with a keen 
 interest in Cybersecurity and Networking. I have basic knowledge in both areas and have 
 completed a number of small practical projects that have helped me build hands-on experience 
 alongside my academic studies. I am currently seeking an internship opportunity in 
 Cybersecurity or Networking. 
-
-
 ---
 
 ## 🛠️ Tech Stack
