@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I'm Yogisha Lakshmini 👋</h1>
-
 <p align="center">
-  <sub>BSc (Hons) Computer Science · Saegis Campus · Nugegoda, Sri Lanka</sub>
+  <sub>BSc (Hons) Computer Science · Undergraduate Student · Saegis Campus ·</sub>
 </p>
-
-<br>
-
-
-
 ---
 
 I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus with a keen 
@@ -16,10 +10,7 @@ completed a number of small practical projects that have helped me build hands-o
 alongside my academic studies. I am currently seeking an internship opportunity in 
 Cybersecurity or Networking. 
 
-
-
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -32,12 +23,15 @@ Cybersecurity or Networking.
 ![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=flat&logo=php&logoColor=5DCAA5)
 ![C](https://img.shields.io/badge/C-0F3D2E?style=flat&logo=c&logoColor=5DCAA5)
 <br>
+
 **DATABASES**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0C2744?style=flat&logo=mysql&logoColor=85B7EB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0C2744?style=flat&logo=mongodb&logoColor=85B7EB)
 <br>
+
 **TOOLS**
+
 ![Docker](https://img.shields.io/badge/Docker-0C2744?style=flat&logo=docker&logoColor=85B7EB)
 ![GitHub](https://img.shields.io/badge/GitHub-0C2744?style=flat&logo=github&logoColor=85B7EB)
 ![Linux](https://img.shields.io/badg
