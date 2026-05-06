@@ -2,7 +2,7 @@
 <h3 align="center">BSc (Hons) Computer Science Undergraduate | Cybersecurity & Networking Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Enthusiast;Networking+Learner;Future+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Enthusiast;Networking+Learner" />
 </p>
 
 ---
@@ -64,16 +64,14 @@ Cybersecurity or Networking.
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://instagram.com/your-link">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </p>
 
 ---
-
-⭐ *“Always learning, always building.”*
