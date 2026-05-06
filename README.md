@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Yogisha Lakshmini 👋</h1>
+<h1 align="center">Hi 👋, I'm Yogisha Lakshmini</h1>
+<h3 align="center">BSc (Hons) Computer Science Undergraduate | Cybersecurity & Networking Enthusiast</h3>
+
 <p align="center">
-  <sub>BSc (Hons) Computer Science · Undergraduate Student · Saegis Campus ·</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Enthusiast;Networking+Learner;Future+Security+Engineer" />
 </p>
+
 ---
 
 I’m a third-year BSc(Hons) Computer Science undergraduate at Saegis Campus with a keen 
@@ -10,47 +13,67 @@ completed a number of small practical projects that have helped me build hands-o
 alongside my academic studies. I am currently seeking an internship opportunity in 
 Cybersecurity or Networking. 
 
+
 ---
 
 ## 🛠️ Tech Stack
 
-**PROGRAMMING LANGUAGE**
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-0F3D2E?style=flat&logo=python&logoColor=5DCAA5)
-![HTML5](https://img.shields.io/badge/HTML5-0F3D2E?style=flat&logo=html5&logoColor=5DCAA5)
-![CSS3](https://img.shields.io/badge/CSS3-0F3D2E?style=flat&logo=css3&logoColor=5DCAA5)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F3D2E?style=flat&logo=javascript&logoColor=5DCAA5)
-![PHP](https://img.shields.io/badge/PHP-0F3D2E?style=flat&logo=php&logoColor=5DCAA5)
-![C](https://img.shields.io/badge/C-0F3D2E?style=flat&logo=c&logoColor=5DCAA5)
-<br>
+---
 
-**DATABASES**
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-0C2744?style=flat&logo=mysql&logoColor=85B7EB)
-![MongoDB](https://img.shields.io/badge/MongoDB-0C2744?style=flat&logo=mongodb&logoColor=85B7EB)
-<br>
+---
 
-**TOOLS**
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-0C2744?style=flat&logo=docker&logoColor=85B7EB)
-![GitHub](https://img.shields.io/badge/GitHub-0C2744?style=flat&logo=github&logoColor=85B7EB)
-![Linux](https://img.shields.io/badg
-Git
-Figma
-Canva
-Android Studio
-----
-<p align="center" CONTACT ME>
-  <a href="mailto:yogishalakshmini6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D9E75?style=flat&logo=gmail&logoColor=white" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yogisha-lakshmini-b378b7314">
-    <img src="https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/_yogisha_">
-    <img src="https://img.shields.io/badge/Instagram-444441?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/yogisha-laks">
-    <img src="https://img.shields.io/badge/Credly-444441?style=flat&logo=credly&logoColor=white" />
+  <a href="https://instagram.com/your-link">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
+
+---
+
+⭐ *“Always learning, always building.”*
