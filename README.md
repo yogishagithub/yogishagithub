@@ -55,10 +55,10 @@ Cybersecurity or Networking.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="yogishalakshmini6@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="www.linkedin.com/in/yogisha-lakshmini-b378b7314">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/your-link">
