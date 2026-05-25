@@ -61,7 +61,7 @@ Cybersecurity or Networking.
   <a href="www.linkedin.com/in/yogisha-lakshmini-b378b7314">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/your-link">
+  <a https://www.instagram.com/_yogisha__?igsh=MWowa3J1a29lcXlzcQ==">
     <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
